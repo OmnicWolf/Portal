@@ -4,30 +4,58 @@ Portal Achievements – [Guide by Pandallax](https://steamcommunity.com/sharedfi
 
 ## By Chamber
 
+- Chamber 00
+    - :radio: x1
+- Chamber 01
+    - :radio: x1
 - Chamber 02
-    - :video_camera: – 3
+    - :camera: x3
+    - :radio: x1
 - Chamber 03
-    - :video_camera: – 3
+    - :camera: x3
+    - :radio: x1
 - Chamber 04
-    - :video_camera: – 2
+    - :camera: x2
+    - :radio: x1
 - Chamber 05
-    - :video_camera: – 3
+    - :camera: x3
+    - :radio: x1
+- Chamber 06
+    - :radio: x1
+- Chamber 07
+    - :radio: x1
+- Chamber 08
+    - :radio: x1
+- Chamber 09
+    - :radio: x1
 - Chamber 10
-    - :video_camera: – 1
+    - :camera: x1
+    - :radio: x1
 - Chamber 11
-    - :video_camera: – 1
+    - :camera: x1
+    - :radio: x1
+- Chamber 12
+    - :radio: x1
 - Chamber 13
-    - :video_camera: – 3
+    - :camera: x3
+    - :radio: x1
+- Chamber 14
+    - :radio: x1
 - Chamber 15
-    - :video_camera: – 5
-    - Terminal Velocity
+    - :camera: x5
+    - :radio: x2
+    - Terminal Velocity (~6 mins of falling)
 - Chamber 16
-    - :video_camera: – 5
+    - :camera: x5
+    - :radio: x1
     - Friendly Fire
 - Chamber 17
-    - :video_camera: – 2
+    - :camera: x2
+    - :radio: x1
 - Chamber 18
-    - :video_camera: – 2
+    - :camera: x2
+    - :radio: x3
 - Chamber 19
-    - :video_camera: – 3
+    - :camera: x3
+    - :radio: x4
     - Long Jump
