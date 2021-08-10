@@ -1,61 +1,36 @@
 # Portal
 
+## Collectibles By Chamber
+
+| Chamber | :camera: | :radio: | Achievement |
+| --- | --- | --- | --- |
+| 00 |    | x1 |  |
+| 01 |    | x1 |  |
+| 02 | x3 | x1 |  |
+| 03 | x3 | x1 |  |
+| 04 | x2 | x1 |  |
+| 05 | x3 | x1 |  |
+| 06 |    | x1 | Terminal Velocity |
+| 07 |    | x1 |  |
+| 08 |    | x1 |  |
+| 09 |    | x1 |  |
+| 10 | x1 | x1 |  |
+| 11 | x1 | x1 |  |
+| 12 |    | x1 |  |
+| 13 | x3 | x1 |  |
+| 14 |    | x1 |  |
+| 15 | x5 | x2 |  |
+| 16 | x5 | x1 | Friendly Fire |
+| 17 | x2 | x1 |  |
+| 18 | x2 | x3 |  |
+| 19 | x3 | x4 | Long Jump |
+
+### Notes
+- Terminal Velocity requires ~6 mins of continuous falling
+- Radios can only be collected on second playthrough
+
+## Save Points
+- The beginning of chamber 9, as the radio can be destroyed
+
+## Portal Guide
 Portal Achievements – [Guide by Pandallax](https://steamcommunity.com/sharedfiles/filedetails/?id=2008271826)
-
-## By Chamber
-
-- Chamber 00
-    - :radio: x1
-- Chamber 01
-    - :radio: x1
-- Chamber 02
-    - :camera: x3
-    - :radio: x1
-- Chamber 03
-    - :camera: x3
-    - :radio: x1
-- Chamber 04
-    - :camera: x2
-    - :radio: x1
-- Chamber 05
-    - :camera: x3
-    - :radio: x1
-- Chamber 06
-    - :radio: x1
-- Chamber 07
-    - :radio: x1
-- Chamber 08
-    - :radio: x1
-- Chamber 09
-    - :radio: x1
-- Chamber 10
-    - :camera: x1
-    - :radio: x1
-- Chamber 11
-    - :camera: x1
-    - :radio: x1
-- Chamber 12
-    - :radio: x1
-- Chamber 13
-    - :camera: x3
-    - :radio: x1
-- Chamber 14
-    - :radio: x1
-- Chamber 15
-    - :camera: x5
-    - :radio: x2
-    - Terminal Velocity (~6 mins of falling)
-- Chamber 16
-    - :camera: x5
-    - :radio: x1
-    - Friendly Fire
-- Chamber 17
-    - :camera: x2
-    - :radio: x1
-- Chamber 18
-    - :camera: x2
-    - :radio: x3
-- Chamber 19
-    - :camera: x3
-    - :radio: x4
-    - Long Jump
